@@ -1,5 +1,5 @@
 ### Pranavchendur
 
-- Founder @CarbonParkHQ 🇮🇳 
-- Data Scientist @KONECorp 🇫🇮 
+- Founder @ CarbonPark 🇮🇳 
+- Data Scientist @ KONE Corporation 🇫🇮 
 - Technology. Agriculture. Exploration.
